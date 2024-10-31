@@ -98,7 +98,7 @@ else:
     
 
 
-import funcionesA as funcionesA
+import paquete.funcionesA as funcionesA
 
 #1
 mostrar_numero (5)

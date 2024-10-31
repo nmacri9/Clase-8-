@@ -15,6 +15,18 @@ print("Valor(es) que más se repite(n):", calcular_repetido(lista_ingresos))
 #6 
 numeros = pedir_numeros()
 print(F'Los numeros ingresados son {numeros}:')
+
+#8
+# Llamar a la función
+resultado = verificar_tipos(lista_nueva)
+print(resultado)
+
+#9
+
+
+
+
+
 """for in range len
     
 
